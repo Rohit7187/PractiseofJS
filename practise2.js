@@ -16,3 +16,10 @@ console.log("comp1 !== comp2 is" , comp1 !== comp2);
 
 
 //logical operators
+
+let x = 5;
+let y = 6;
+
+console.log(x < y && x == 5);
+
+console.log(x > y || x == 5);
