@@ -16,3 +16,11 @@
 // console.log(distionory.goti);
 
 //console.log("Hellow world!");
+
+let num = prompt("enter the number");
+    if (num % 5 === 0) {
+       console.log(num, "number is valid"); 
+    }
+    else{
+        console.log(num, "not valid");
+    }
