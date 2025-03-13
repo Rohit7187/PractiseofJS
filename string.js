@@ -12,5 +12,13 @@
 
 //backslash- escape sequesnce
 
-let fruit = `apple\ne`;
-console.log(fruit)
+// let fruit = `apple\ne`;
+// console.log(fruit)
+
+//methods:
+
+let name = "rohit";
+console.log(name.toUpperCase());
+console.log(name.length);
+console.log(name.slice(1,3));
+console.log(name[2]);
