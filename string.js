@@ -22,3 +22,4 @@ console.log(name.toUpperCase());
 console.log(name.length);
 console.log(name.slice(1,3));
 console.log(name[2]);
+document.write(name.length);
