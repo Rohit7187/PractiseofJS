@@ -48,11 +48,28 @@ for(let i = 0; i < arr.length; i++){
 
 //let str = "Apnacolleage";
 
-function countVowles(str){
-    for(const char of str);
-    console.log(char);
-}
+// function countVowles(str){
+//     for(const char of str);
+//     console.log(char);
+// }
 
+// let arr = [1,2,3,4,5,6];
+
+// let newArray = arr.filter(val => {
+//     return val % 2 === 0;
+//     });
+
+//     console.log(newArray);
+
+let arr = [97,58,55,95,98,12];
+
+let newArray = arr.filter(val =>{
+
+    return val > 90;
+
+});
+
+console.log(newArray);
 
 
 
